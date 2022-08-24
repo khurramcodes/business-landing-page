@@ -14,7 +14,7 @@
 
 - Learnt the CSS styling of **text input, button and icon** as single unit
 - Use of **font-awesome icons**
-- Also learnt the footer composite footer designing
+- Also learnt the composite footer designing
 
 ## :camera: Screenshot
 
